@@ -1,3 +1,4 @@
+FROM node:7.3.0-slim
 
 MAINTAINER Matt Tyndall <matt@tyndl.me>
 
