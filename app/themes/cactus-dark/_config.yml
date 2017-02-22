@@ -19,9 +19,9 @@ customize:
       apple: /images/apple-touch-icon.png
     social_links:
         github: http://github.com/tyndallm
-        twitter: /
-        facebook: /
-        linkedin: /
+        twitter: http://twitter.com/matrick
+        facebook: https://facebook.com/tyndall
+        linkedin: https://www.linkedin.com/in/tyndallm
     post_count: 5
     highlight: rainbow
 
