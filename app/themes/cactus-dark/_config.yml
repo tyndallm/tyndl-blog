@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: http://github.com/tyndallm
 
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/tyndallm
 
 customize:
     logo:
@@ -18,7 +18,7 @@ customize:
       android: /images/favicon-192x192.png
       apple: /images/apple-touch-icon.png
     social_links:
-        github: http://github.com/probberechts/cactus-dark
+        github: http://github.com/tyndallm
         twitter: /
         facebook: /
         linkedin: /
