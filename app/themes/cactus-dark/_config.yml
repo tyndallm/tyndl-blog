@@ -8,7 +8,7 @@ projects_url: http://github.com/tyndallm
 
 customize:
     logo:
-        enabled: true
+        enabled: false
         width: 50
         height: 50
         url: /images/logo.png

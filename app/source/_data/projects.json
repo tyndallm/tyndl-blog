@@ -1,12 +1,17 @@
   [
       {
-         "name":"Hexo",
-         "url":"https://hexo.io/",
-         "desc":"A fast, simple & powerful blog framework"
+         "name":"Crowdfund dapp",
+         "url":"http://crowdfund.tyndl.me",
+         "desc":"Ethereum powered crowdfunding platform built with React, Redux, Truffle, and Solidity"
       },
       {
-         "name":"Font Awesome",
-         "url":"http://fontawesome.io/",
-         "desc":"The iconic font and CSS toolkit"
+         "name":"Blockchain Index",
+         "url":"http://blockindex.tyndl.me",
+         "desc":"Tracking the progress of a hand-picked cryptocurrency based index started in 2017"
+      },
+      {
+         "name":"Tequiladora",
+         "url":"coming soon",
+         "desc":"A simple Tequila NOM registry lookup app for Android"
       }
   ]
