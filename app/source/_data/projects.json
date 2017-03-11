@@ -1,7 +1,7 @@
   [
       {
          "name":"Crowdfund dapp",
-         "url":"http://crowdfund.tyndl.me",
+         "url":"https://github.com/tyndallm/crowdfund-dapp",
          "desc":"Ethereum powered crowdfunding platform built with React, Redux, Truffle, and Solidity"
       },
       {
