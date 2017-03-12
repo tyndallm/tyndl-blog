@@ -1,7 +1,7 @@
 nav:
   Home: /
   About: /about/
-  Writing: /archives/
+  Blog: /archives/
   Projects: http://github.com/tyndallm
 
 projects_url: http://github.com/tyndallm
@@ -31,7 +31,7 @@ rss: false
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    google_analytics: UA-93516561-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
